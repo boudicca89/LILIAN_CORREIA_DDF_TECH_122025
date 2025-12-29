@@ -46,5 +46,5 @@ utilizando Google Sheets como origem pública.
   
 ## Evidências Visuais
 
-![Integração via Google Sheets](../assets/prints/integracao/integracao_google_sheets.png)
+![Integração via Google Sheets](https://github.com/boudicca89/LILIAN_CORREIA_DDF_TECH_122025/blob/main/docs/assets/prints/integracao/integracao_google_sheets.png)
 

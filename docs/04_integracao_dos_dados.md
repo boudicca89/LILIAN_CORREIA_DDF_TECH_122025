@@ -34,3 +34,13 @@ Disponibilizar os dados na plataforma Dadosfera como base para:
 - Validações de qualidade
 - Modelagem de dados
 - Análises e visualizações
+
+## Status da Integração
+A fonte de dados foi integrada com sucesso na plataforma Dadosfera,
+utilizando Google Sheets como origem pública.
+
+- Nome do dataset na plataforma: Extended_Employee_Performance_and_Productivity_Data
+- Zona: RAW
+- Status: Integrado com sucesso
+- Data da integração: 29/12/2025
+

@@ -43,4 +43,8 @@ utilizando Google Sheets como origem pública.
 - Zona: RAW
 - Status: Integrado com sucesso
 - Data da integração: 29/12/2025
+  
+## Evidências Visuais
+
+![Integração via Google Sheets](../assets/prints/integracao/integracao_google_sheets.png)
 

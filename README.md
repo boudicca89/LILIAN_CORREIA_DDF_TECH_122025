@@ -9,7 +9,7 @@ desempenho e produtividade de funcionários.
 
 ## Estrutura
 - `docs/`: documentação do planejamento e entendimento dos dados
-- 
+ 
 ## Ativos na Dadosfera
 
 Os datasets, pipelines, dashboards e data apps deste projeto
